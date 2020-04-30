@@ -16,12 +16,12 @@ Reference: [https://docs.python-guide.org/starting/installation/](https://docs.p
 git clone "https://github.com/nilay1221/JustChat.git"
 ```
 
-#### 5. Install requirements
+#### 4. Install requirements
 ```bash
 pip install -r requirements.txt
 ```
 
-#### 6. Run the server
+#### 5. Run the server
 ```bash
 # Make migrations
 python manage.py makemigrations
